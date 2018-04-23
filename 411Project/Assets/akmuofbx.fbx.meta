@@ -1,17 +1,21 @@
 fileFormatVersion: 2
-guid: 200db238c958ade47bd393ee76c2b3db
-timeCreated: 1524498845
+guid: feb4ed207f36c6f42a35230f15e3b810
+timeCreated: 1524499413
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Camera
+    100004: Icosphere
+    100006: Lamp
     400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
+    400002: Camera
+    400004: Icosphere
+    400006: Lamp
+    2300000: Icosphere
+    3300000: Icosphere
     4300000: Icosphere
-    7400000: Default Take
-    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -76,7 +80,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
